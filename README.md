@@ -1,3 +1,4 @@
+![veri pnj](https://github.com/alpernas/alpernas/assets/151265870/0cd5d6e2-62d2-4f54-9345-31ba88c91516)
 
 <h1 align="center">Hi 👋, I'm Alper Nas</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
