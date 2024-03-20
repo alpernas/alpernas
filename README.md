@@ -1,4 +1,4 @@
-https://images.app.goo.gl/sWmf7rJnS9N5zpQy5
+
 <h1 align="center">Hi 👋, I'm Alper Nas</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
